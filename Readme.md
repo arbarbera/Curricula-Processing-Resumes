@@ -3,7 +3,6 @@
 - It is, therefore, a step-by-step approach, but it assumes that the reader has the basic knowledge of Python and some familiarity with the jargon used in the recruitment processes.
 
 See you...
-
 Antonio Roberto Mendes Barberá
 (+55)21 992992949
 Brasil - Rio de Janeiro - RJ
